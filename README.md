@@ -2,4 +2,4 @@
 
 SmartCleaner Pro Lite is a fast and lightweight Android cleaner that frees storage, removes junk files, clears cache, and improves performance.
 
-With it's smart scan, it safely finds unnecessary files, large items, and clutter to keep your phone smooth and optimized.
+With its smart scan, it safely finds unnecessary files, large items, and clutter to keep your phone smooth and optimized.
